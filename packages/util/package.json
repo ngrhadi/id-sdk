@@ -1,6 +1,6 @@
 {
   "name": "@id-sdk/util",
-  "version": "3.0.0-pre.10",
+  "version": "3.0.0",
   "description": "Collection of iD-sdk utility libraries",
   "homepage": "https://github.com/ideditor/id-sdk/tree/main/packages/util#readme",
   "repository": "github:ideditor/id-sdk",
@@ -16,7 +16,7 @@
     "src/"
   ],
   "type": "module",
-  "typedocMain" : "./src/index.ts",
+  "typedocMain": "./src/index.ts",
   "source": "./src/index.ts",
   "types": "./built/index.d.ts",
   "main": "./built/util.mjs",
